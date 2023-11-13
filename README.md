@@ -27,3 +27,6 @@ Running pubsub
 
 Running sub
 ![running_sub](https://github.com/YJawale/First_Task_PubSub/assets/125810583/da4ee7ba-df86-4687-b7b4-1300730831cd)
+
+Graphing the nodes with rqt_graph
+![graph_representation](https://github.com/YJawale/First_Task_PubSub/assets/125810583/4c750c05-c4ec-43c3-b948-cb2800b14415)
